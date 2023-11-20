@@ -6,7 +6,7 @@ click==8.1.7
 cmake==3.27.7
 colorama==0.4.6
 comm==0.1.4
-contourpy==1.2.0
+contourpy==1.0.6
 cycler==0.12.1
 Cython==3.0.4
 dash==2.14.0
